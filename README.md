@@ -1,3 +1,12 @@
+# ChatArchiveTool
+
+本地离线的聊天记录提取与查看工具。  
+支持从多个平台导出聊天记录，整理为统一档案，并自动在浏览器中打开查看页面。
+
+## 支持平台
+
+- OpenAI 官网
+- Chatbox
 - Cherry Studio
 - RikkaHub
 
