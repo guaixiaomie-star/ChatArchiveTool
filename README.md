@@ -77,7 +77,7 @@ dist/ChatArchiveTool/
 注意：--onedir 模式下，必须保留整个 ChatArchiveTool 文件夹，不能只单独保留 ChatArchiveTool.exe。
 
 ## 下载成品
-成品包请前往 GitHub Releases 下载。
+请前往仓库右侧或 Releases 页面下载 `ChatArchiveTool_v1.0.0.zip`。
 
 ## 隐私说明
 本工具在本地离线运行，不会自动上传聊天记录到服务器。
